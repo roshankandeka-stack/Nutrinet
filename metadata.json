@@ -1,0 +1,6 @@
+{
+  "name": "NutriNet",
+  "description": "Child growth tracker against WHO metrics, AI meal scanner, support groups, budget recipe translator, and malnutrition warning alerts.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
